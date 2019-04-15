@@ -1,0 +1,36 @@
+{
+  "name": "@kaenjs/body-parser",
+  "version": "0.0.0",
+  "description": "Body Parser Middleware for KaenJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "BodyParser",
+    "Middleware",
+    "KaenJS",
+    "Framework",
+    "kaen",
+    "backend",
+    "webserver",
+    "nodejs"
+  ],
+  "author": "Gerardo Pérez Pérez <gerard2perez@outlook.com>",
+  "license": "AGPL-3.0",
+  "devDependencies": {
+    "@kaenjs/core": "file:../core",
+    "@types/node": "^10.0.0",
+    "typescript": "^3.4.3"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "files": [
+    "**/*.js",
+    "package.json",
+    "**/*.d.ts"
+  ],
+  "readme": "README.md"
+}
